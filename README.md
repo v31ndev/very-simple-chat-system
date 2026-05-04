@@ -56,9 +56,9 @@ This program is a very simple chat system demo made in C using the **enet** libr
    testuser1 >> hello world!
    ```
 
-You can chat with other people aswell, just make sure they connect to your server (your ip address). Both port forwarding and using a third-party VPN program (Radmin VPN, Hamachi, ...) work.
+You can chat with other people aswell, just make sure they connect to your server (your IP address). Both port forwarding and using a third-party VPN program (Radmin VPN, Hamachi, ...) work.
 
 ## Notes
 
 * **This project was originally created in february 2026; I'm uploading it to GitHub just for archival purposes**
-* **This program is made for educational purposes only.**
+* **This program is made for educational purposes only and is not recommended for normal use.**
